@@ -2,7 +2,7 @@
 title: Эталон
 description: 
 published: true
-date: 2026-03-10T22:39:46.382Z
+date: 2026-03-10T22:42:58.341Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -42,7 +42,8 @@ dateCreated: 2026-03-10T22:39:46.382Z
 ### Содержание
 * [1. История проекта](#history)
 * [2. Непредусмотренные реакции](#reactions)
-* [3. Заключение](#conclusion)
+* [3. Сводка](#summary)
+* [4. Заключение](#conclusion)
 
 </div>
 <div class="main-chapters">
@@ -89,7 +90,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
   
-<h2 id="conclusion">3. Сводка</h2>
+<h2 id="summary">3. Сводка</h2>
 
 <div class="blur-spoiler-container">
 <input type="checkbox" id="sec-2" class="blur-toggle">
