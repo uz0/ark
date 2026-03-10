@@ -2,7 +2,7 @@
 title: Эталон
 description: 
 published: true
-date: 2026-03-10T23:13:53.102Z
+date: 2026-03-10T23:15:15.407Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -36,19 +36,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
 
-<div class="page-bottom-grid">
-<div class="sticky-toc">
-
-### Содержание
-* [1. История проекта](#history)
-* [2. Непредусмотренные реакции](#reactions)
-* [3. Сводка](#summary)
-* [4. Заключение](#conclusion)
-
-</div>
-<div class="main-chapters">
-
-<h3 id="history">1. История проекта</h3>
+<h2 id="history">1. История проекта</h2>
 
 Программа **«Эталон»** запущена в **Летающей Лаборатории** в первый год войны с [Северной Республикой](/ru/Northern-Republic).
 
@@ -58,7 +46,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 
 После активации одной особи процесс клонирования следующей запускался автоматически — обеспечивая непрерывную преемственность опыта.
   
-<h3 id="reactions">2. Непредусмотренные реакции</h3>
+<h2 id="reactions">2. Непредусмотренные реакции</h2>
 
 <div class="blur-spoiler-container">
 <input type="checkbox" id="sec-1" class="blur-toggle">
@@ -88,7 +76,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
   
-<h3 id="summary">3. Сводка</h3>
+<h2 id="summary">3. Сводка</h2>
 
 <div class="blur-spoiler-container">
 <input type="checkbox" id="sec-2" class="blur-toggle">
@@ -162,7 +150,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
 
-<h3 id="conclusion">4. Заключение</h3>
+<h2 id="conclusion">4. Заключение</h2>
 
 <div class="blur-spoiler-container">
 <input type="checkbox" id="sec-3" class="blur-toggle">
