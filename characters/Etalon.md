@@ -2,7 +2,7 @@
 title: Эталон
 description: 
 published: true
-date: 2026-03-10T23:28:41.399Z
+date: 2026-03-10T23:29:09.116Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -28,7 +28,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 <img src="/photo_2025-06-08_14-38-20.jpg" alt="Эталон">
 <table>
 <tr style="background: #f8f9fa;"><td><strong>Имя</strong></td><td>Эталон</td></tr>
-<tr><td><strong>Рост/Вес</strong></td><td>205 см / 130 кг</td></tr>
+<tr><td><strong>Рост/Вес</strong></td><td>205см / 130кг</td></tr>
 <tr style="background: #f8f9fa;"><td><strong>Вид</strong></td><td>Синтетический генетически скорректированный субъект с инвазивными небиологическими модулями</td></tr>
 <tr><td><strong>Фракция</strong></td><td>Вечная Империя, ВНСИ</td></tr>
 <tr style="background: #f8f9fa;"><td><strong>Способности</strong></td><td>Телекинез, телепатия, полет, морфоритовые резонаторы</td></tr>
