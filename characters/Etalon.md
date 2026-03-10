@@ -2,7 +2,7 @@
 title: Эталон
 description: 
 published: true
-date: 2026-03-10T22:42:58.341Z
+date: 2026-03-10T22:43:27.970Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
