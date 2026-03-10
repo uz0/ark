@@ -2,7 +2,7 @@
 title: Эталон
 description: 
 published: true
-date: 2026-03-10T23:13:02.135Z
+date: 2026-03-10T23:13:53.102Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -162,7 +162,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
 
-<h2 id="conclusion">4. Заключение</h2>
+<h3 id="conclusion">4. Заключение</h3>
 
 <div class="blur-spoiler-container">
 <input type="checkbox" id="sec-3" class="blur-toggle">
