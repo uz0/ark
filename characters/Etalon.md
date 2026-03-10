@@ -2,7 +2,7 @@
 title: Эталон
 description: 
 published: true
-date: 2026-03-10T23:16:24.029Z
+date: 2026-03-10T23:20:36.745Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -29,9 +29,9 @@ dateCreated: 2026-03-10T22:39:46.382Z
 <table>
 <tr style="background: #f8f9fa;"><td><strong>Имя</strong></td><td>Эталон</td></tr>
 <tr><td><strong>Рост/Вес</strong></td><td>205 см / 130 кг</td></tr>
-<tr style="background: #f8f9fa;"><td><strong>Вид</strong></td><td>Генетически модифицированный человек с имплантами</td></tr>
-<tr><td><strong>Фракция</strong></td><td>Вечная Империя</td></tr>
-<tr style="background: #f8f9fa;"><td><strong>Силы</strong></td><td>Телекинез, телепатия, полет</td></tr>
+<tr style="background: #f8f9fa;"><td><strong>Вид</strong></td><td>Синтетический генетически скорректированный субъект с инвазивными небиологическими модулями</td></tr>
+<tr><td><strong>Фракция</strong></td><td>Вечная Империя, ВНСИ</td></tr>
+<tr style="background: #f8f9fa;"><td><strong>Силы</strong></td><td>Телекинез, телепатия, полет, морфоритовые резонаторы</td></tr>
 </table>
 </div>
 </div>
