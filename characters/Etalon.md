@@ -2,7 +2,7 @@
 title: Эталон
 description: Суперсолдат Империи, сочетающий телепатию и телекинез в теле совершенного живого оружия.
 published: true
-date: 2026-03-11T00:53:09.041Z
+date: 2026-03-11T00:55:42.566Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -83,14 +83,20 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 
 <div class="image-row">
-    <div class="image-row-item" onclick="document.getElementById('tower-int').style.display='flex';">
-        <img src="/world/photo_2025-12-27_13-06-29_(2).jpg" alt="Интерьер" style="cursor: zoom-in;">
+    <div class="image-row-item">
+        <label for="tower-int-check">
+            <img src="/world/photo_2025-12-27_13-06-29_(2).jpg" alt="Интерьер">
+        </label>
     </div>
-    <div class="image-row-item" onclick="document.getElementById('tower-ext').style.display='flex';">
-        <img src="/world/8.jpg" alt="Экстерьер" style="cursor: zoom-in;">
+    <div class="image-row-item">
+        <label for="tower-ext-check">
+            <img src="/world/8.jpg" alt="Экстерьер">
+        </label>
     </div>
-    <div class="image-row-item" onclick="document.getElementById('tower-concept').style.display='flex';">
-        <img src="/world/photo_2025-12-27_13-06-29.jpg" alt="Концепты" style="cursor: zoom-in;">
+    <div class="image-row-item">
+        <label for="tower-concept-check">
+            <img src="/world/photo_2025-12-27_13-06-29.jpg" alt="Концепты">
+        </label>
     </div>
 </div>
 
@@ -188,20 +194,23 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
 
-<div id="tower-int" class="modal-overlay" onclick="this.style.display='none';" style="display: none;">
-    <span class="close-modal" style="cursor: pointer;">&times;</span>
-    <img src="/world/photo_2025-12-27_13-06-29_(2).jpg" onclick="event.stopPropagation();">
-    <div class="modal-caption">Башня Эталона. Интерьер.</div>
+<input type="checkbox" id="tower-int-check" class="modal-check">
+<div class="modal-overlay">
+    <label for="tower-int-check" class="close-modal">&times;</label>
+    <img src="/world/photo_2025-12-27_13-06-29_(2).jpg">
+    <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Башня Эталона. Интерьер.</div>
 </div>
 
-<div id="tower-ext" class="modal-overlay" onclick="this.style.display='none';" style="display: none;">
-    <span class="close-modal" style="cursor: pointer;">&times;</span>
-    <img src="/world/8.jpg" onclick="event.stopPropagation();">
-    <div class="modal-caption">Башня Эталона. Экстерьер.</div>
+<input type="checkbox" id="tower-ext-check" class="modal-check">
+<div class="modal-overlay">
+    <label for="tower-ext-check" class="close-modal">&times;</label>
+    <img src="/world/8.jpg">
+    <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Башня Эталона. Экстерьер.</div>
 </div>
 
-<div id="tower-concept" class="modal-overlay" onclick="this.style.display='none';" style="display: none;">
-    <span class="close-modal" style="cursor: pointer;">&times;</span>
-    <img src="/world/photo_2025-12-27_13-06-29.jpg" onclick="event.stopPropagation();">
-    <div class="modal-caption">Башня Эталона. Концепты.</div>
+<input type="checkbox" id="tower-concept-check" class="modal-check">
+<div class="modal-overlay">
+    <label for="tower-concept-check" class="close-modal">&times;</label>
+    <img src="/world/photo_2025-12-27_13-06-29.jpg">
+    <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Башня Эталона. Концепты.</div>
 </div>
