@@ -2,7 +2,7 @@
 title: Эталон
 description: Суперсолдат Империи, сочетающий телепатию и телекинез в теле совершенного живого оружия.
 published: true
-date: 2026-03-11T00:55:42.566Z
+date: 2026-03-11T01:03:22.336Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -193,6 +193,23 @@ dateCreated: 2026-03-10T22:39:46.382Z
 
 </div>
 </div>
+<div class="image-row">
+    <div class="image-row-item">
+        <label for="etalon1-check">
+            <img src="/эталон.jpg" alt="Эталон">
+        </label>
+    </div>
+    <div class="image-row-item">
+        <label for="etalonAnahoret-check">
+            <img src="/photo_2025-04-13_13-55-38.jpg" alt="Эталон. Версия Анахорета.">
+        </label>
+    </div>
+    <div class="image-row-item">
+        <label for="etalon-concept-check">
+            <img src="/photo_2025-10-10_05-48-02.webp" alt="Эталон. Концепты">
+        </label>
+    </div>
+</div>
 
 <input type="checkbox" id="tower-int-check" class="modal-check">
 <div class="modal-overlay">
@@ -213,4 +230,24 @@ dateCreated: 2026-03-10T22:39:46.382Z
     <label for="tower-concept-check" class="close-modal">&times;</label>
     <img src="/world/photo_2025-12-27_13-06-29.jpg">
     <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Башня Эталона. Концепты.</div>
+</div>
+
+<input type="checkbox" id="etalon1-check" class="modal-check">
+<div class="modal-overlay">
+    <label for="etalon1-check" class="close-modal">&times;</label>
+    <img src="/эталон.jpg">
+    <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Эталон.</div>
+</div>
+<input type="checkbox" id="etalonAnahoret-check" class="modal-check">
+<div class="modal-overlay">
+    <label for="etalonAnahoret-check" class="close-modal">&times;</label>
+    <img src="/photo_2025-04-13_13-55-38.jpg">
+    <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Эталон. Версия Анахорета.</div>
+</div>
+
+<input type="checkbox" id="etalon-concept-check" class="modal-check">
+<div class="modal-overlay">
+    <label for="etalon-concept-check" class="close-modal">&times;</label>
+    <img src="/photo_2025-10-10_05-48-02.webp">
+    <div class="modal-caption" style="color:white; position:absolute; bottom:5%;">Эталон. Концепты.</div>
 </div>
