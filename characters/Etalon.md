@@ -2,7 +2,7 @@
 title: Эталон
 description: Суперсолдат Империи, сочетающий телепатию и телекинез в теле совершенного живого оружия.
 published: true
-date: 2026-03-11T00:28:16.094Z
+date: 2026-03-11T00:29:18.905Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -85,17 +85,17 @@ dateCreated: 2026-03-10T22:39:46.382Z
   
 <div class="image-row">
     <div class="image-row-item">
-        <a href="#tower-int">
-            <img src="/world/photo_2025-12-27_13-06-29_(2).jpg" alt="Башня Эталона. Интерьер. Версия 1">
+        <a href="#tower-int" data-lightbox="false">
+            <img src="/world/photo_2025-12-27_13-06-29_(2).jpg" alt="Интерьер">
         </a>
     </div>
     <div class="image-row-item">
-        <a href="#tower-ext">
+        <a href="#tower-ext" data-lightbox="false">
             <img src="/world/8.jpg" alt="Башня Эталона. Экстерьер.">
         </a>
     </div>
     <div class="image-row-item">
-        <a href="#tower-concept">
+        <a href="#tower-concept" data-lightbox="false">
             <img src="/world/photo_2025-12-27_13-06-29.jpg" alt="Башня Эталона. Концепты.">
         </a>
     </div>
