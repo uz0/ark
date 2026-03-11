@@ -2,7 +2,7 @@
 title: Эталон
 description: Суперсолдат Империи, сочетающий телепатию и телекинез в теле совершенного живого оружия.
 published: true
-date: 2026-03-11T00:42:01.600Z
+date: 2026-03-11T00:44:49.091Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -84,18 +84,18 @@ dateCreated: 2026-03-10T22:39:46.382Z
 
 <div class="image-row">
     <div class="image-row-item">
-        <a href="#tower-int">
-            <img src="/world/photo_2025-12-27_13-06-29_(2).jpg" alt="Интерьер">
+        <a href="#tower-int" onclick="document.getElementById('tower-int').style.display='flex'">
+            <img src="/world/photo_2025-12-27_13-06-29_(2).jpg">
         </a>
     </div>
     <div class="image-row-item">
-        <a href="#tower-ext">
-            <img src="/world/8.jpg" alt="Башня Эталона. Экстерьер.">
+        <a href="#tower-ext" onclick="document.getElementById('tower-ext').style.display='flex'">
+            <img src="/world/8.jpg">
         </a>
     </div>
     <div class="image-row-item">
-        <a href="#tower-concept">
-            <img src="/world/photo_2025-12-27_13-06-29.jpg" alt="Башня Эталона. Концепты.">
+        <a href="#tower-concept" onclick="document.getElementById('tower-concept').style.display='flex'">
+            <img src="/world/photo_2025-12-27_13-06-29.jpg">
         </a>
     </div>
 </div>
@@ -200,10 +200,10 @@ dateCreated: 2026-03-10T22:39:46.382Z
     <div class="image-row-item"><img src="/photo_2025-10-10_05-48-02.webp"></div>
 </div>
 
-<div id="tower-int" class="modal-overlay">
-    <a href="#close" class="close-modal">&times;</a>
+<div id="tower-int" class="modal-overlay" onclick="this.style.display='none'">
+    <a href="#close" class="close-modal" onclick="this.parentElement.style.display='none'">&times;</a>
     <img src="/world/photo_2025-12-27_13-06-29_(2).jpg">
-    <div style="color: white; position: absolute; bottom: 5%; text-align: center; width: 100%;">Башня Эталона. Интерьер 1.</div>
+    <div class="modal-caption">Башня Эталона. Интерьер.</div>
 </div>
 
 <div id="tower-ext" class="modal-overlay">
