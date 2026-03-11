@@ -2,7 +2,7 @@
 title: Эталон
 description: Суперсолдат Империи, сочетающий телепатию и телекинез в теле совершенного живого оружия.
 published: true
-date: 2026-03-11T00:48:20.404Z
+date: 2026-03-11T00:50:41.765Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -84,17 +84,17 @@ dateCreated: 2026-03-10T22:39:46.382Z
 
 <div class="image-row">
     <div class="image-row-item">
-        <a href="#tower-int" onclick="document.getElementById('tower-int').style.display='flex'">
+        <a href="javascript:void(0)" onclick="document.getElementById('tower-int').style.display='flex'; return false;">
             <img src="/world/photo_2025-12-27_13-06-29_(2).jpg">
         </a>
     </div>
     <div class="image-row-item">
-        <a href="#tower-ext" onclick="document.getElementById('tower-ext').style.display='flex'">
+        <a href="javascript:void(0)" onclick="document.getElementById('tower-ext').style.display='flex'; return false;">
             <img src="/world/8.jpg">
         </a>
     </div>
     <div class="image-row-item">
-        <a href="#tower-concept" onclick="document.getElementById('tower-concept').style.display='flex'">
+        <a href="javascript:void(0)" onclick="document.getElementById('tower-concept').style.display='flex'; return false;">
             <img src="/world/photo_2025-12-27_13-06-29.jpg">
         </a>
     </div>
@@ -194,26 +194,20 @@ dateCreated: 2026-03-10T22:39:46.382Z
 </div>
 </div>
 
-<div class="image-row">
-    <div class="image-row-item"><img src="/эталон.jpg"></div>
-    <div class="image-row-item"><img src="/photo_2025-04-13_13-55-38.jpg"></div>
-    <div class="image-row-item"><img src="/photo_2025-10-10_05-48-02.webp"></div>
-</div>
-
-<div id="tower-int" class="modal-overlay" onclick="this.style.display='none'">
-    <a href="#close" class="close-modal" onclick="this.parentElement.style.display='none'">&times;</a>
+<div id="tower-int" class="modal-overlay" style="display: none;" onclick="this.style.display='none'">
+    <a href="javascript:void(0)" class="close-modal" onclick="this.parentElement.style.display='none'; return false;">&times;</a>
     <img src="/world/photo_2025-12-27_13-06-29_(2).jpg">
     <div class="modal-caption">Башня Эталона. Интерьер.</div>
 </div>
 
-<div id="tower-ext" class="modal-overlay" onclick="this.style.display='none'">
-    <a href="#close" class="close-modal" onclick="this.parentElement.style.display='none'">&times;</a>
+<div id="tower-ext" class="modal-overlay" style="display: none;" onclick="this.style.display='none'">
+    <a href="javascript:void(0)" class="close-modal" onclick="this.parentElement.style.display='none'; return false;">&times;</a>
     <img src="/world/8.jpg">
     <div class="modal-caption">Башня Эталона. Экстерьер.</div>
 </div>
 
-<div id="tower-concept" class="modal-overlay" onclick="this.style.display='none'">
-    <a href="#close" class="close-modal" onclick="this.parentElement.style.display='none'">&times;</a>
+<div id="tower-concept" class="modal-overlay" style="display: none;" onclick="this.style.display='none'">
+    <a href="javascript:void(0)" class="close-modal" onclick="this.parentElement.style.display='none'; return false;">&times;</a>
     <img src="/world/photo_2025-12-27_13-06-29.jpg">
     <div class="modal-caption">Башня Эталона. Концепты.</div>
 </div>
