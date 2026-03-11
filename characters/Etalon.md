@@ -2,7 +2,7 @@
 title: Эталон
 description: Суперсолдат Империи, сочетающий телепатию и телекинез в теле совершенного живого оружия.
 published: true
-date: 2026-03-11T00:32:36.980Z
+date: 2026-03-11T00:34:52.569Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-10T22:39:46.382Z
@@ -223,7 +223,7 @@ dateCreated: 2026-03-10T22:39:46.382Z
     <span style="display:none">Системный якорь</span>
     <a href="#close" class="close-modal">&times;</a>
     <img src="/world/photo_2025-12-27_13-06-29_(2).jpg">
-    <div class="modal-caption">Башня Эталона. Интерьер. Версия 1</div>
+    <div style="color: white; position: absolute; bottom: 5%; text-align: center; width: 100%;">Башня Эталона. Интерьер 1.</div>
 </div>
 
 <div id="tower-ext" class="modal-overlay" style="display: none;">
@@ -233,7 +233,8 @@ dateCreated: 2026-03-10T22:39:46.382Z
     <div style="color: white; position: absolute; bottom: 5%; text-align: center; width: 100%;">Башня Эталона. Экстерьер.</div>
 </div>
 
-<div id="tower-concept" class="modal-overlay">
+<div id="tower-concept" class="modal-overlay" style="display: none;">
+    <span style="display:none">Системный якорь</span>
     <a href="#close" class="close-modal">&times;</a>
     <img src="/world/photo_2025-12-27_13-06-29.jpg">
     <div style="color: white; position: absolute; bottom: 5%; text-align: center; width: 100%;">Башня Эталона. Концепты.</div>
