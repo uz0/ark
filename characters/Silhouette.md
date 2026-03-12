@@ -2,7 +2,7 @@
 title: Силуэт
 description: Субъект не выясненой природы
 published: true
-date: 2026-03-12T16:43:09.371Z
+date: 2026-03-12T16:44:09.483Z
 tags: империя, эталон, глава 1, силуэт, персонажи
 editor: markdown
 dateCreated: 2026-03-12T14:33:14.425Z
@@ -70,24 +70,6 @@ dateCreated: 2026-03-12T14:33:14.425Z
 </div>
 </div>
 
-<div class="image-row">
-    <div class="image-row-item">
-        <label for="silhouette1">
-            <img src="/photo_2025-08-23_13-25-44.jpg" alt="Силуэт: Концепты.">
-        </label>
-    </div>
-    <div class="image-row-item">
-        <label for="silhouette2">
-            <img src="/world/8.jpg" alt="Экстерьер">
-        </label>
-    </div>
-    <div class="image-row-item">
-        <label for="silhouette3">
-            <img src="/world/photo_2025-12-27_13-06-29.jpg" alt="Концепты">
-        </label>
-    </div>
-</div>
-
 <h2 id="summary">3. Инициация расследования и первичные гипотезы</h2>
 
 <div class="blur-spoiler-container">
@@ -109,6 +91,24 @@ dateCreated: 2026-03-12T14:33:14.425Z
 В качестве основного подозреваемого фигурирует **Николай Гаврилович Писарев** — писатель, правозащитник и оппозиционер, официально считавшийся погибшим. По мнению Курпатовой, ликвидация физического носителя приведет к немедленному прекращению всех аномальных инцидентов.
 
 </div>
+</div>
+
+<div class="image-row">
+    <div class="image-row-item">
+        <label for="silhouette1">
+            <img src="/photo_2025-08-23_13-25-44.jpg" alt="Силуэт: Концепты.">
+        </label>
+    </div>
+    <div class="image-row-item">
+        <label for="silhouette2">
+            <img src="/world/8.jpg" alt="Экстерьер">
+        </label>
+    </div>
+    <div class="image-row-item">
+        <label for="silhouette3">
+            <img src="/world/photo_2025-12-27_13-06-29.jpg" alt="Концепты">
+        </label>
+    </div>
 </div>
 
 <h2 id="conclusion">4. Николай Писарев</h2>
