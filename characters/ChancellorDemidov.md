@@ -2,7 +2,7 @@
 title: Канцлер Демидов
 description: Канцлер Демидов — бессменный глава Империи и идеолог проекта «Эталон», выступающий для граждан гарантом порядка и абсолютной стабильности.
 published: true
-date: 2026-03-21T06:44:31.289Z
+date: 2026-03-21T12:18:52.714Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-21T05:41:08.011Z
@@ -43,7 +43,7 @@ dateCreated: 2026-03-21T05:41:08.011Z
 <tr><td><strong>Рост/Вес</strong></td><td>183см / 96кг</td></tr>
 <tr style="background: #f8f9fa;"><td><strong>Вид</strong></td><td>Человек </td></tr>
 <tr><td><strong>Фракция</strong></td><td>Вечная Империя</td></tr>
-<tr style="background: #f8f9fa;"><td><strong>Титулы</strong></td><td>Барон, Канцлер Вечной империи</td></tr>
+<tr style="background: #f8f9fa;"><td><strong>Титулы</strong></td><td>Барон, Канцлер Вечной Империи</td></tr>
 </table>
 </div>
 </div>
