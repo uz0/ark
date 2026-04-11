@@ -2,7 +2,7 @@
 title: Персонажи
 description: Список персонажей
 published: true
-date: 2026-04-11T11:20:52.125Z
+date: 2026-04-11T11:24:00.632Z
 tags: персонажи
 editor: markdown
 dateCreated: 2026-04-11T11:20:52.125Z
@@ -13,15 +13,14 @@ dateCreated: 2026-04-11T11:20:52.125Z
 
 <div class="char-grid">
 
-  <a class="char-card" href="https://ваша-вики.com/Арья">
+  <a class="char-card" href="https://ark.theedgestory.org/ru/characters/Etalon">
     <div class="char-img-wrap">
-      <img src="арья.jpg" alt="Арья Солнечная">
+      <img src="/photo_2025-06-08_14-38-20.jpg" alt="Эталон">
     </div>
-    <div class="char-name">Арья Солнечная</div>
-    <div class="char-role">Командир</div>
+    <div class="char-name">Эталон</div>
   </a>
 
-  <a class="char-card" href="https://ваша-вики.com/Марк">
+  <a class="char-card" href="https://ark.theedgestory.org/ru/characters/Silhouette">
     <div class="char-img-wrap">
       <img src="марк.jpg" alt="Марк Теневой">
     </div>
@@ -29,7 +28,7 @@ dateCreated: 2026-04-11T11:20:52.125Z
     <div class="char-role">Разведчик</div>
   </a>
 
-  <a class="char-card" href="https://ваша-вики.com/Лина">
+  <a class="char-card" href="https://ark.theedgestory.org/ru/characters/ChancellorDemidov">
     <div class="char-img-wrap">
       <img src="лина.jpg" alt="Лина Огонь">
     </div>
@@ -37,7 +36,7 @@ dateCreated: 2026-04-11T11:20:52.125Z
     <div class="char-role">Инженер</div>
   </a>
 
-  <a class="char-card" href="https://ваша-вики.com/Вейн">
+  <a class="char-card" href="https://ark.theedgestory.org/ru/characters/Zenith">
     <div class="char-img-wrap">
       <img src="вейн.jpg" alt="Вейн Стальной">
     </div>
