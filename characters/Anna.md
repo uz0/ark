@@ -2,7 +2,7 @@
 title: Куратор Анна
 description: Руководитель Военно-научной службы Империи, куратор проекта «Эталон».
 published: true
-date: 2026-04-18T11:42:07.532Z
+date: 2026-04-18T11:46:13.032Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-04-18T11:20:10.649Z
@@ -44,16 +44,17 @@ dateCreated: 2026-04-18T11:20:10.649Z
 </div>
 </div>
 
-<h2 id="history">2. Биография</h2>
+<h2 id="history">3. Биография</h2>
 <div class="blur-spoiler-container custom-deny-logic">
-  <input type="checkbox" id="step-1" class="logic-check-1">
-  <input type="checkbox" id="step-2" class="logic-check-2">
+  <input type="radio" name="trap-1" id="state-secret" class="logic-radio-secret" checked>
   
-  <label for="step-1" class="blur-overlay label-secret">
+  <input type="radio" name="trap-1" id="state-deny" class="logic-radio-deny">
+  
+  <label for="state-deny" class="blur-overlay label-secret">
     СОВЕРШЕННО СЕКРЕТНО - СПОЙЛЕРЫ!
   </label>
 
-  <label for="step-2" class="blur-overlay label-denied">
+  <label for="state-secret" class="blur-overlay label-denied">
     ДОСТУП ЗАПРЕЩЁН
   </label>
 
