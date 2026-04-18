@@ -2,7 +2,7 @@
 title: Александр Леонидович Чижевский
 description: Профессор квантовой нейробиологии и научный руководитель проекта «Эталон».
 published: true
-date: 2026-04-18T10:45:26.365Z
+date: 2026-04-18T10:51:18.699Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-04-18T10:42:59.964Z
@@ -33,7 +33,7 @@ dateCreated: 2026-04-18T10:42:59.964Z
 
 </div>
 <div class="imperial-infobox">
-<img src="/зенит.png" alt="Зенит">
+<img src="/чижевский.png" alt="Чижевский">
 <table>
 <tr style="background: #f8f9fa;"><td><strong>Имя</strong></td><td>Зенит</td></tr>
 <tr><td><strong>Рост/Вес</strong></td><td>230см / 176кг</td></tr>
