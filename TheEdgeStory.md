@@ -2,7 +2,7 @@
 title: The Edge Story
 description: 
 published: true
-date: 2026-04-18T12:21:52.717Z
+date: 2026-04-18T12:23:13.577Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T12:21:52.717Z
@@ -87,7 +87,7 @@ dateCreated: 2026-04-18T12:21:52.717Z
     <div class="char-role">Государство</div>
   </a>
 
-   <a class="char-card" href="https://ark.theedgestory.org/ru/characters/Anna">
+   <a class="char-card" href="https://ark.theedgestory.org/ru/McFadden-Field">
     <div class="char-img-wrap">
       <img src="/эталон.jpg" alt="Поле Макфаддена">
     </div>
