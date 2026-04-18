@@ -2,7 +2,7 @@
 title: Канцлер Демидов
 description: Канцлер Демидов — бессменный глава Империи и идеолог проекта «Эталон», выступающий для граждан гарантом порядка и абсолютной стабильности.
 published: true
-date: 2026-04-18T11:11:53.477Z
+date: 2026-04-18T11:14:04.720Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-03-21T05:41:08.011Z
@@ -37,7 +37,7 @@ dateCreated: 2026-03-21T05:41:08.011Z
   
 </div>
 <div class="imperial-infobox">
-<img src="/анна.png" alt="Анна">
+<img src="/chancellor_demidov.png" alt="КанцлерДемидов">
 <table>
 <tr style="background: #f8f9fa;"><td><strong>Имя</strong></td><td>Климент Аристархович Демидов</td></tr>
 <tr><td><strong>Рост/Вес</strong></td><td>183см / 96кг</td></tr>
