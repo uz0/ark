@@ -2,7 +2,7 @@
 title: Александр Леонидович Чижевский
 description: Профессор квантовой нейробиологии и научный руководитель проекта «Эталон».
 published: true
-date: 2026-04-18T10:51:18.699Z
+date: 2026-04-18T10:55:25.608Z
 tags: империя, эталон, глава 1, персонажи
 editor: markdown
 dateCreated: 2026-04-18T10:42:59.964Z
@@ -35,11 +35,11 @@ dateCreated: 2026-04-18T10:42:59.964Z
 <div class="imperial-infobox">
 <img src="/чижевский.png" alt="Чижевский">
 <table>
-<tr style="background: #f8f9fa;"><td><strong>Имя</strong></td><td>Зенит</td></tr>
-<tr><td><strong>Рост/Вес</strong></td><td>230см / 176кг</td></tr>
-<tr style="background: #f8f9fa;"><td><strong>Вид</strong></td><td>Синтетический генетически скорректированный субъект с инвазивными небиологическими модулями </td></tr>
+<tr style="background: #f8f9fa;"><td><strong>Имя</strong></td><td>Александр Леонидович Чижевский</td></tr>
+<tr><td><strong>Рост/Вес</strong></td><td>171см / 88кг</td></tr>
+<tr style="background: #f8f9fa;"><td><strong>Вид</strong></td><td>Человек </td></tr>
 <tr><td><strong>Фракция</strong></td><td>Вечная Империя</td></tr>
-<tr style="background: #f8f9fa;"><td><strong>Способности</strong></td><td>Сверхсила, Выносливость, Невосприимчивость к боли, бактериям, вирусам, токсинам, Эндосоматический биокинез </td></tr>
+<tr style="background: #f8f9fa;"><td><strong>Титулы</strong></td><td>Профессор квантовой нейробиологии, научной руководитель Летающей Лаборатории и проектов "Зенит", "Эталон"</td></tr>
 </table>
 </div>
 </div>
